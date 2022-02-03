@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    font-family: monospace;
+    font-size: 25px;
+  
+   
+    height: 60px;
+    width: 504px; 
+    background-color: rgb(253, 253, 253);
+}
+
+img {
+    border: 7px solid rgb(255, 6, 214);
+  }
+
+
